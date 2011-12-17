@@ -1,0 +1,10 @@
+{
+	"id": "com.webosroundup.feed-manager",
+	"version": "0.0.1",
+	"vendor": "webOSroundup",
+	"type": "web",
+	"main": "index.html",
+	"title": "IPKG Feed Manager",
+	"icon": "icon.png",
+	"uiRevision":2
+}

@@ -1,0 +1,1 @@
+The feed generator will be for use of creating and maintaining your own IPKG feed. In the end, I hope to have an app that will connect to your FTP server, and create a Packages file that dynamically updates every time you add a new package via the app.
